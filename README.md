@@ -65,3 +65,6 @@ Este repositorio contiene los siguientes microservicios:
 
   * Realizar la petición POST a http://localhost:3000/api/orders con la información para crear un pedido.
 
+## Diagrama
+
+![Diagrama](/Diagrama.png)
